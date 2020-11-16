@@ -1,0 +1,6 @@
+framework module Pods_MyMVCSeries {
+  umbrella header "Pods-MyMVCSeries-umbrella.h"
+
+  export *
+  module * { export * }
+}
