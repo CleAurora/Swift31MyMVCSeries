@@ -1,0 +1,6 @@
+framework module Pods_trainingAPIAndXib {
+  umbrella header "Pods-trainingAPIAndXib-umbrella.h"
+
+  export *
+  module * { export * }
+}
